@@ -1,0 +1,30 @@
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.BUS.dll
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.BUS.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.dll
+C:\Users\Thien\Desktop\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.BUS.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.BUS.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS\Bin\QLKS.BUS.dll
+C:\Users\Thien\Desktop\QLKS\QLKS\Bin\QLKS.BUS.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.dll
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.pdb
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.BUS.dll
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.BUS.pdb
+D:\Victor\DNS\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.csprojResolveAssemblyReference.cache
+D:\Victor\DNS\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.dll
+D:\Victor\DNS\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.pdb
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.BUS.dll
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.BUS.pdb
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.dll
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.pdb
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.BUS.dll
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.BUS.pdb
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.dll
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.pdb

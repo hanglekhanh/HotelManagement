@@ -1,0 +1,10 @@
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.BUS.dll
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.BUS.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.dll
+C:\Users\Thien\Desktop\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.BUS\obj\Debug\QLKS.BUS.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.BUS.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.BUS.pdb

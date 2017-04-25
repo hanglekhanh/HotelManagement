@@ -1,0 +1,8 @@
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.DTO.dll
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.DTO.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.dll
+C:\Users\Thien\Desktop\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.DTO.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.DTO.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.pdb

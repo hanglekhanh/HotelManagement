@@ -1,0 +1,216 @@
+D:\Baitap\LTCSDL\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\Baitap\LTCSDL\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\Baitap\LTCSDL\QLKS\QLKS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Baitap\LTCSDL\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+D:\Baitap\LTCSDL\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+D:\Baitap\LTCSDL\QLKS\QLKS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Baitap\LTCSDL\QLKS\QLKS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Baitap\LTCSDL\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+D:\Baitap\LTCSDL\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+D:\Baitap\LTCSDL\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+F:\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+F:\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+F:\QLKS\QLKS\bin\Debug\QLKS.exe
+F:\QLKS\QLKS\bin\Debug\QLKS.pdb
+F:\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+F:\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+F:\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+F:\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+F:\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmLogin.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.Workstation.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+D:\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.Form_XacNhanAd.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmLogin.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.Form_XacNhanAd.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.Workstation.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.exe
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmDaDat.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmTinhTien.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmInfo.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLNhanVien.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmDoiMatKhau.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmTimKhach.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmReport.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\RdlCompile.cache
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.exe.config
+D:\QLKS\Bin\QLKS.exe.config
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmDoiMatKhau.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmDaDat.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLNhanVien.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmReport.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmTimKhach.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmTinhTien.resources
+D:\QLKS\QLKS\obj\x86\Debug\QLKS.frmInfo.resources
+D:\QLKS\QLKS\obj\x86\Debug\RdlCompile.cache
+D:\QLKS\QLKS\obj\x86\Debug\RdlCompile.compiled
+D:\QLKS\Bin\QLKS.exe
+D:\QLKS\Bin\QLKS.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.exe.config
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.exe
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDoiMatKhau.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmLogin.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDaDat.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLNhanVien.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmReport.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTimKhach.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTinhTien.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Form_XacNhanAd.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmInfo.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Workstation.resources
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\RdlCompile.cache
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTraTien.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\Bin\QLKS.exe.config
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS\Bin\QLKS.exe
+C:\Users\Thien\Desktop\QLKS\QLKS\Bin\QLKS.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDoiMatKhau.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmLogin.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDaDat.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLNhanVien.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmReport.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTimKhach.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTinhTien.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Form_XacNhanAd.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmInfo.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTraTien.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Workstation.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\RdlCompile.cache
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLPhong.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmSanPhamPhuThu.resources
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.exe.config
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.exe
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.pdb
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDoiMatKhau.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmLogin.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDaDat.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLNhanVien.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLPhong.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmReport.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmSanPhamPhuThu.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTimKhach.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTinhTien.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Form_XacNhanAd.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmInfo.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTraTien.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Workstation.resources
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\RdlCompile.cache
+D:\Victor\DNS\QLKS\QLKS\QLKS\obj\x86\Debug\RdlCompile.compiled
+D:\Victor\DNS\QLKS\Bin\QLKS.exe.config
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+D:\Victor\DNS\QLKS\Bin\QLKS.exe
+D:\Victor\DNS\QLKS\Bin\QLKS.pdb
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDoiMatKhau.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmLogin.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDaDat.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLNhanVien.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLPhong.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmReport.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmSanPhamPhuThu.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTimKhach.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTinhTien.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.Form_XacNhanAd.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmInfo.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTraTien.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.Workstation.resources
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\RdlCompile.cache
+D:\Victor\DNS\QLKS\QLKS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.exe.config
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.exe
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.pdb
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmDoiMatKhau.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmLogin.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmDaDat.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLNhanVien.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLPhong.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmReport.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmSanPhamPhuThu.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmTimKhach.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmTinhTien.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.Form_XacNhanAd.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmInfo.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.frmTraTien.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.Workstation.resources
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\RdlCompile.cache
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLPhong.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmSanPhamPhuThu.resources
+C:\Users\Thien\Desktop\QLKS\QLKS\obj\x86\Debug\QLKS.frmTraTien.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.exe.config
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.exe
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.pdb
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.exe
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.pdb
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDatPhong.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDoiMatKhau.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDSPhong.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmLogin.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmDaDat.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLNhanVien.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmQLPhong.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmReport.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmSanPhamPhuThu.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTimKhach.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTinhTien.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Form_XacNhanAd.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmInfo.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.frmTraTien.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Properties.Resources.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.Workstation.resources
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\QLKS.csproj.GenerateResource.Cache
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\RdlCompile.cache
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS\obj\x86\Debug\RdlCompile.compiled

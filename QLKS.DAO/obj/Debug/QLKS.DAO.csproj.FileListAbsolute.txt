@@ -1,0 +1,30 @@
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.DAO.dll
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.DAO.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.dll
+C:\Users\Thien\Desktop\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.DAO.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.DAO.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS\Bin\QLKS.DAO.dll
+C:\Users\Thien\Desktop\QLKS\QLKS\Bin\QLKS.DAO.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.dll
+C:\Users\Thien\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.pdb
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.DAO.dll
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.DAO.pdb
+D:\Victor\DNS\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.csprojResolveAssemblyReference.cache
+D:\Victor\DNS\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.dll
+D:\Victor\DNS\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.pdb
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.DAO.dll
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.DAO.pdb
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.dll
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.pdb
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.DAO.dll
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.DAO.pdb
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.dll
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.pdb

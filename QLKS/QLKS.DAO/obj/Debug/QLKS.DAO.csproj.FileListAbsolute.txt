@@ -1,0 +1,10 @@
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.DAO.dll
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.DAO.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Thien\Desktop\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.dll
+C:\Users\Thien\Desktop\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\QLKS.DAO\obj\Debug\QLKS.DAO.pdb
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.DAO.dll
+C:\Users\KhanhHang\Desktop\QLKS\QLKS\Bin\QLKS.DAO.pdb

@@ -1,0 +1,20 @@
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.DTO.dll
+C:\Users\Thien\Desktop\QLKS\Bin\QLKS.DTO.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.dll
+C:\Users\Thien\Desktop\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.pdb
+C:\Users\Thien\Desktop\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.csprojResolveAssemblyReference.cache
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.DTO.dll
+D:\Victor\DNS\QLKS\QLKS\Bin\QLKS.DTO.pdb
+D:\Victor\DNS\QLKS\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.csprojResolveAssemblyReference.cache
+D:\Victor\DNS\QLKS\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.dll
+D:\Victor\DNS\QLKS\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.pdb
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.DTO.dll
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\Bin\QLKS.DTO.pdb
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.dll
+C:\Users\KhanhHang\Desktop\QLKS 9999\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.pdb
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.DTO.dll
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\Bin\QLKS.DTO.pdb
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.csprojResolveAssemblyReference.cache
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.dll
+C:\Users\KhanhHang\Desktop\Quan Ly Khach San\Ma Nguon\PhanMem\QLKS\QLKS\QLKS.DTO\obj\Debug\QLKS.DTO.pdb
